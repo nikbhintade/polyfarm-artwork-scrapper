@@ -1,0 +1,15 @@
+{
+  "name": "polyfarmscrapper",
+  "version": "1.0.0",
+  "description": "Scrapper to scrape all traits from polyfarm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^15.0.0",
+    "ethers": "^5.5.4"
+  }
+}
